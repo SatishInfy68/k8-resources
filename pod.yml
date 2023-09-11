@@ -4,8 +4,8 @@ metadata:
   name: label-pod
   labels:
     company: Infosys
-    role: DevOps EngineerS
-    designation: Technology Analyst
+    role: DevOps_EngineerS
+    designation: Technology_Analyst
 spec:
   containers:
   - name: nginx
