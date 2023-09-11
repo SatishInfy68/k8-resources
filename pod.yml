@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata: 
+  name: label-pod
+  labels:
+    company: Infosys
+    role: DevOps EngineerS
+    designation: Technology Analyst
+spec:
+  containers:
+  - name: nginx
+    image: nginx
+    
