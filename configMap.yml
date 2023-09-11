@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: course-config
 data:
-  name: Satish_Lanka
+  trainer: Satish_Lanka
   role: DevOps_Engineer
